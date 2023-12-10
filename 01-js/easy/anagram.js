@@ -42,8 +42,8 @@ function isAnagram(str1, str2) {
 }
 
 // Example usage:
-const result = isAnagram("Listen", "Silent");
-console.log(result); // Output: true
+// const result = isAnagram("Listen", "Silent");
+// console.log(result); // Output: true
 
 
 
